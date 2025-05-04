@@ -6,11 +6,14 @@
 Wotum ("my", "nasz") szanuje Twoją prywatność. Niniejsza Polityka Prywatności wyjaśnia, jak przetwarzamy Twoje dane podczas korzystania z naszej Aplikacji.
 
 ## 2. GROMADZENIE DANYCH
-### Lokalne przechowywanie danych
-Wszystkie preferencje użytkownika, ulubione elementy oraz dane aktywności są przechowywane lokalnie na Twoim urządzeniu.
 
-### Brak zewnętrznego gromadzenia danych
-Nie zbieramy, nie przechowujemy ani nie przetwarzamy żadnych danych osobowych poza Twoim urządzeniem.
+### Dane lokalne
+Preferencje użytkownika (ulubione, tryb jasny/ciemny, język) są przechowywane lokalnie na urządzeniu.
+
+### Dane analityczne (pseudonimizowane)
+Aplikacja zbiera anonimowe dane analityczne dotyczące interakcji użytkownika, takie jak wyszukiwania, dodawanie do ulubionych oraz aktywowanie powiadomień. Dane te nie zawierają informacji umożliwiających identyfikację użytkownika (np. imienia, adresu e-mail czy numeru telefonu).
+
+Informacje są przesyłane do systemu analitycznego (np. Firebase Analytics) wyłącznie w celu zrozumienia ogólnego korzystania z aplikacji i jej ulepszania. Używamy identyfikatora urządzenia lub sesji, ale nie przypisujemy danych do żadnego konkretnego użytkownika.
 
 ### Informacje publiczne
 Dane polityczne (profile polityków, wyniki głosowań, przemówienia, informacje o partiach) pochodzą z publicznych rejestrów rządowych i Sejmu RP. Są one prezentowane wyłącznie w celach informacyjnych.

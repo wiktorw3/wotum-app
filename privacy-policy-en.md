@@ -7,10 +7,13 @@ Wotum ("we," "our," or "us") respects your privacy. This Privacy Policy explains
 
 ## 2. DATA COLLECTION
 ### Local Data Storage
-All user preferences, favorites, and activity data are stored locally on your device.
+User preferences (favorites, theme, language) are stored locally on your device.
 
-### No External Data Collection
-We do not collect, store, or process any personal data externally. No data leaves your device.
+### Pseudonymous Analytics
+The app collects pseudonymous analytics data, such as search queries, favorites, and notification preferences. These events are tracked to understand overall usage and improve the app experience.
+
+This data does not include personally identifiable information (PII), such as your name, email, or phone number. The analytics system (e.g. Firebase Analytics) uses pseudonymous device or session identifiers that cannot be linked to a specific individual.
+
 
 ### Public Information
 The political data displayed in the App (including politician profiles, voting records, speeches, and party information) is sourced from publicly available government records and the Polish Parliament (Sejm). This information is not owned by us and is presented for informational purposes only.
